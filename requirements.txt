@@ -1,0 +1,4 @@
+git+https://github.com/vincekurtz/hydrax.git
+"jax[cuda12]"
+mujoco
+mujoco-mjx
