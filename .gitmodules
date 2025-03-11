@@ -1,3 +1,4 @@
 [submodule "assets/mujoco_menagerie"]
 	path = assets/mujoco_menagerie
 	url = git@github.com:ddebenedittis/mujoco_menagerie.git
+	branch = sampling_mpc
